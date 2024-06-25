@@ -5,7 +5,7 @@ For the past couple of months, I've been diving into Unity, exploring its capabi
 
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
-* ✉️  You can contact me at [wojciech083@gmail.com](mailto:wojciech083@gmail.com)
+* ✉️  You can contact me at [wojciechmaciejewski00@gmail.com](mailto:wojciechmaciejewski00@gmail.com)
 * 🧠  I'm learning Visual Scripting and would love to start my journey with Procedural World Generation
 
 ### Skills
