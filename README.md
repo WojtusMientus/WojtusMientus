@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wojciech Maciejewski
 ============================================================================================================================================
 
-![Profile Views](https://komarev.com/ghpvc/?username=WojtusMientus&color=blue)
 
 For the past couple of months, I've been diving into Unity, exploring its capabilities and learning the ins and outs of game programming. This journey has been incredibly exciting, and I am eager to explore it further. Recently, I began learning Unreal Engine while sharpening my C++ skills to transition fully from Unity..
 
