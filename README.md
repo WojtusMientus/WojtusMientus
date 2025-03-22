@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 For the past couple of months, I've been diving into Unity, exploring its capabilities and learning the ins and outs of game programming. This journey has been incredibly exciting, and I am eager to explore it furthurer. Recently I started learning Unreal Engine and refreshing my C++ knowledge so I can transition fully from Unity.
 
+
 * 💻  I'm refreshing my C++ knowledge at the moment and developing my farewell Unity project - Maze Visualizer
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
@@ -14,11 +15,11 @@ For the past couple of months, I've been diving into Unity, exploring its capabi
 ## Skills
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-%2300308F?style=for-the-badge&logo=unity&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-violet?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-violet?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%2300308F?style=for-the-badge&logo=unity&logoColor=white) 
 
 
 ## Socials
