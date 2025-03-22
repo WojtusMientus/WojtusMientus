@@ -16,11 +16,11 @@ For the past couple of months, I've been diving into Unity, exploring its capabi
 
 ## Skills
 
-![C#](https://img.shields.io/badge/C%23-%236a8a12?style=for-the-badge&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-%23ff7f27?style=for-the-badge&logo=unity)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300a2e8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%236839aa?style=for-the-badge&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%234938aa?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%234b4b4b?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23202020?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Perforce Helix](https://img.shields.io/badge/Perforce%20Helix-%23404040?style=for-the-badge&logo=perforce&logoColor=white)
+![Perforce Helix](https://img.shields.io/badge/Perforce%20Helix-%2300aeef?style=for-the-badge&logo=perforce&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23832791?style=for-the-badge&logo=github&logoColor=white)
 
 
