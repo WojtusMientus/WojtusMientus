@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wojciech Maciejewski
 ============================================================================================================================================
 
+![Profile Views](https://komarev.com/ghpvc/?username=WojtusMientus&color=blue)
+
 For the past couple of months, I've been diving into Unity, exploring its capabilities and learning the ins and outs of game programming. This journey has been incredibly exciting, and I am eager to explore it further. Recently, I began learning Unreal Engine while sharpening my C++ skills to transition fully from Unity..
 
 
-* 💻  I'm refreshing my C++ knowledge at the moment and developing my latest project: Maze Visualizer - Farewell Unity project that dynamically generates and visualizes different maze algorithms. 
+* 💻  I'm refreshing my C++ knowledge at the moment and developing my latest project: Maze Visualizer - My farewell Unity project that dynamically generates and visualizes maze algorithms in real time. 
       🔗 Check it out here: [Maze Visualizer](https://github.com/WojtusMientus/Maze_Visualizer)
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
