@@ -10,7 +10,7 @@ For the past couple of months, I've been diving into Unity, exploring its capabi
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
 * ✉️  You can contact me at [wojciechmaciejewski00@gmail.com](mailto:wojciechmaciejewski00@gmail.com)
-* 📓  I'm learning Unreal Engine 5, Blueprints and starting my journey with Enemy AI using Behavioral Trees
+* 📓  I'm learning Unreal Engine 5, Blueprints and starting my journey with Enemy AI using Behavior Trees
 
 
 
