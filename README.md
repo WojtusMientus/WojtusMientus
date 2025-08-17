@@ -16,12 +16,12 @@ For the past couple of months, I've been diving into Unity, exploring its capabi
 
 ## Skills
 
-![C#](https://img.shields.io/badge/C%23-%236839aa?style=for-the-badge&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-%23015a9e?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%234b4b4b?style=for-the-badge&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23202020?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Perforce Helix](https://img.shields.io/badge/Perforce%20Helix-%2300aeef?style=for-the-badge&logo=perforce&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23832791?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/C%23-%236839aa?style=for-the-badge&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C%2B%2B-%23015a9e?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Unity-%234b4b4b?style=for-the-badge&logo=unity" alt="Unity" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23202020?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+<img src="https://img.shields.io/badge/Perforce%20Helix-%2300aeef?style=for-the-badge&logo=perforce&logoColor=white" alt="Perforce Helix" />
+<img src="https://img.shields.io/badge/Github-%23832791?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 
 ## Socials
