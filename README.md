@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 For the past couple of months, I've been diving into Unity, exploring its capabilities and learning the ins and outs of game programming. This journey has been incredibly exciting, and I am eager to explore it further. Recently, I began learning Unreal Engine while sharpening my C++ skills to transition fully from Unity..
 
 
-* 💻  I'm refreshing my C++ knowledge at the moment and developing my latest project: Maze Visualizer - My farewell Unity project that dynamically generates and visualizes maze algorithms in real time. 
-      🔗 Check it out here: [Maze Visualizer](https://github.com/WojtusMientus/Maze_Visualizer)
+* 💻  I'm refreshing my C++ knowledge at the moment and developing my latest project: Boid Simulation - Unreal Engine 5 flocking simulaiton
+      🔗 Check it out here: [Boid Simulation](https://github.com/WojtusMientus/Boids_Project)
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
 * ✉️  You can contact me at [wojciechmaciejewski00@gmail.com](mailto:wojciechmaciejewski00@gmail.com)
