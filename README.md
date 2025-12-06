@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 For the past couple of months, I’ve been diving into Unreal Engine, exploring its capabilities and learning the ins and outs of game development with C++. This journey has been incredibly exciting, and I’m eager to continue pushing my skills further. Before this, I spent time working with Unity, and that experience has helped me in transitioning into Unreal Engine.
 
 
-* 💻  I'm currently developing my latest project: Boid Simulation - Unreal Engine 5 flocking simulaiton
+* 💻  I'm currently developing my latest project: Boid Simulation - Unreal Engine 5 flocking simulation
       🔗 Check it out here: [Boid Simulation](https://github.com/WojtusMientus/Boids_Project)
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [Itch.io](http://wojciech-maciejewski.itch.io/)
