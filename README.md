@@ -4,9 +4,9 @@ Hi there! My name is Wojciech Maciejewski <img src="https://media.giphy.com/medi
 
 I’m a **Game Programming student at Futuregames Warsaw** with a strong interest in system design, math, and more recently, rendering.
 
-Right now I’m working on **[MintEngine](https://github.com/WojtusMientus/MintEngine)**, a C++ game engine in very early development, focused on exploring engine architecture and rendering using OpenGL.
+Right now I’m working on **MintEngine**, a C++ game engine in very early development, focused on exploring engine architecture and rendering using OpenGL.
 
-I also recently finished **[Boids Project](https://github.com/WojtusMientus/Boids_Project)**, a real-time Unreal Engine 5 flocking simulation centered around system design, spatial partitioning, tooling, and performance analysis.
+I also recently finished **Boids Project**, a real-time Unreal Engine 5 flocking simulation centered around system design, spatial partitioning, tooling, and performance analysis.
 
 * 💻 Currently working on [MintEngine](https://github.com/WojtusMientus/MintEngine)
 * 🚀 Recently finished [Boids Project](https://github.com/WojtusMientus/Boids_Project)
